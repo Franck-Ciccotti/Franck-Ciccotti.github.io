@@ -17,8 +17,7 @@ body {
     background-color: hsl(216, 4%, 47%);
     background-color: hsl(217, 54%, 11%);
     margin: 0 auto;
-    width: 1200px;
-    /* height: 1500px; */
+    min-width: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;

@@ -43,6 +43,7 @@ header {
 }
 header h1 {
     color: #00FFF8;
+    letter-spacing: 5px;
 }
 header h2 {
     /* border: 1px solid red; */
@@ -65,7 +66,7 @@ nav h3 {
     /* padding : 20px 0px ; */
     margin-bottom: 5px;
     text-transform: uppercase ;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
 }
 
 nav hr {
